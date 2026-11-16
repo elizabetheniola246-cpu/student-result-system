@@ -7,6 +7,7 @@ exam results. It stores everything in a JSON file, so nothing is lost when the p
 **Matric No:** 24/SCI01/070  
 **Department:** Computer Science  
 **GitHub:** elizabetheniola246-cpu
+**Github URL:** https://github.com/elizabetheniola246-cpu/student-result-system
 
 ## What it can do
 - **Students:** register a new student, list everyone, look someone up by ID or name,
